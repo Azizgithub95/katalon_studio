@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Candidat</name>
+   <tag></tag>
+   <elementGuidId>e1109437-9f0d-401a-a9dd-776f69c5f53e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='contenu']/section/div/ul/li/a/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Candidat&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f4d15d89-1abe-4e05-b860-201b26141ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DispatchVisitorsUI_item-link-title__McNFU dark:!text-bleu-horizon</value>
+      <webElementGuid>740b3ed4-010c-4d11-a7ed-66972d89efae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Candidat </value>
+      <webElementGuid>4aa98813-e0e3-4845-a0d6-01acd9939576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contenu&quot;)/section[@class=&quot;DispatchVisitorsUI_section___9uxP dark:!bg-cobalt&quot;]/div[@class=&quot;container mx-auto max-w-[1120px] px-5 md:px-0 py-0&quot;]/ul[@class=&quot;DispatchVisitorsUI_list__id0Vb&quot;]/li[1]/a[@class=&quot;DispatchVisitorsUI_item-link__X4AUl dark:after:!bg-bleu-horizon&quot;]/div[@class=&quot;DispatchVisitorsUI_item-link-content__1MPJ8 higherLineHeight:my-5&quot;]/span[@class=&quot;DispatchVisitorsUI_item-link-title__McNFU dark:!text-bleu-horizon&quot;]</value>
+      <webElementGuid>78b42f92-eb3c-4c9a-a93e-6d66e667a8ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='contenu']/section/div/ul/li/a/div/span</value>
+      <webElementGuid>04f28c0c-c27b-40a0-9092-a478a045ede8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Poursuivons l’aventure ensemble'])[1]/following::span[1]</value>
+      <webElementGuid>805d488a-0d18-4fbc-bacc-07de43557e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Journaliste'])[1]/preceding::span[2]</value>
+      <webElementGuid>40ccf7ed-8b0d-4c6f-8a9a-97459a0210b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investisseur et analyste'])[1]/preceding::span[4]</value>
+      <webElementGuid>c0e59a9c-ceea-47d8-8f34-6f43ca8d59fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Candidat']/parent::*</value>
+      <webElementGuid>47470a21-0117-4921-a8c4-40b4178a5e78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/span</value>
+      <webElementGuid>275e6692-9be3-4399-bad6-9dac701755aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Candidat ' or . = 'Candidat ')]</value>
+      <webElementGuid>0b937e8e-2314-4843-8440-9fd05e76b036</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

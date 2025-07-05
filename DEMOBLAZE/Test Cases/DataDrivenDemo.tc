@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80619932-f9c4-4626-8116-99d5d669fc99</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>d072117f-2bfc-4058-9e2d-f6e31d33b8bf</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Login_Orange_demo</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>d072117f-2bfc-4058-9e2d-f6e31d33b8bf</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>2d75b315-0b2b-4389-8f01-d2524fce0fff</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>d072117f-2bfc-4058-9e2d-f6e31d33b8bf</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>277201c4-5f25-44ea-a481-dccb0b543f1e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2d75b315-0b2b-4389-8f01-d2524fce0fff</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>277201c4-5f25-44ea-a481-dccb0b543f1e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

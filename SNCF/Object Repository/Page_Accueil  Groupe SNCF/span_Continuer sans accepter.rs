@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continuer sans accepter</name>
+   <tag></tag>
+   <elementGuidId>abbf332d-51de-4660-98f9-1a334f1b5da3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.didomi-continue-without-agreeing</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='didomi-popup']/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Continuer sans accepter →&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7e0e223b-1bc0-4122-b1e2-339990f5ec6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>didomi-continue-without-agreeing</value>
+      <webElementGuid>62a4861d-b62a-43f0-9d59-e7135b386a3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e1a37fb3-a91b-4fc4-9f0c-f26d48b7b5ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fa5ab13f-1f96-41f6-a658-2bd0d7618dcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continuer sans accepter →</value>
+      <webElementGuid>e7b2146d-8a4b-41ea-ac18-6fcf36b693b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;didomi-popup&quot;)/div[@class=&quot;didomi-exterior-border didomi-popup__exterior-border&quot;]/div[@class=&quot;didomi-popup-container didomi-popup__dialog didomi-popup-notice didomi-popup-notice-optin-type didomi-popup-notice-with-data-processing&quot;]/div[@class=&quot;didomi-popup-view&quot;]/span[@class=&quot;didomi-continue-without-agreeing&quot;]</value>
+      <webElementGuid>cda75a6f-f534-4a7c-80c4-f676e6dbe226</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='didomi-popup']/div/div/div/span</value>
+      <webElementGuid>b1822f2b-abca-4da6-b03d-dea45af51563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nos 9 partenaires'])[1]/preceding::span[1]</value>
+      <webElementGuid>23fbae06-6abf-4a2a-a24a-899df1d601d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vos données personnelles sont traitées pour les finalités suivantes:'])[1]/preceding::span[1]</value>
+      <webElementGuid>8382a38e-6068-4097-b344-0a5e07535c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continuer sans accepter']/parent::*</value>
+      <webElementGuid>68a31354-caa5-4a07-a855-d85af84bb317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>5f628892-e976-42fb-826d-4172132d3f45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continuer sans accepter →' or . = 'Continuer sans accepter →')]</value>
+      <webElementGuid>18bd9fb9-e083-475d-bb7c-3d327d81c320</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
